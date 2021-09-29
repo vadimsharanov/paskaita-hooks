@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button-forest {
+  margin: 30px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  width: 300px;
+  button {
+    padding: 30px;
+  }
+}

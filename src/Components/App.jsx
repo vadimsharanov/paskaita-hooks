@@ -1,11 +1,11 @@
-import React from "react"
-
-
+import Red from "./Red";
 
 function App() {
+
     return (
-        <h1>hello world</h1>
+        <Red></Red>
     )
 }
+
 
 export default App
